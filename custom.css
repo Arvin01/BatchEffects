@@ -1,0 +1,7 @@
+slides > slide.backdrop {
+  background: white;
+}
+
+figure figcaption {
+    text-align: center;
+}

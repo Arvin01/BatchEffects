@@ -41,7 +41,7 @@ source('C:/Users/erikinwest/Documents/R/funzies.R')
 
 
 <figure>
-  <img src="images/array.png" style="width: 200px; margin:0px auto; display:block"/>
+  <img src="array.png" style="width: 200px; margin:0px auto; display:block"/>
   <figcaption> <font size="2"><i>Microarray under the microscope</i></font> 
   </figcaption>
 </figure>
@@ -64,11 +64,11 @@ source('C:/Users/erikinwest/Documents/R/funzies.R')
 
 This article [@spielman_2007] has been cited as a paper that failed to adjust for batch effects [@dafls_2015].
 
-<img src="images/image_spielman.png" style="width: 400px;"/>
+<img src="image_spielman.png" style="width: 400px;"/>
 
 ## Modern genomics research data can be found at the NCBI's Gene Expression Omnibus (GEO)
 
-<img src="images/geo.png" style="width: 900px;"/>
+<img src="geo.png" style="width: 900px;"/>
 
 ## Chart 1: Spurious findings
 

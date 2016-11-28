@@ -10,16 +10,8 @@ for (k in lb) {
   if(k %in% ip) { require(k,character.only=T)} 
   else { biocLite(k); require(k,character.only = T)  }
 }
-# Github install
-# install_github("genomicsclass/GSE5859")
+# Note! Data set requires a Github install
 library(GSE5859)
-
-# Clean up 
-rm(list=ls())
-dir <- 'C:/Users/erikinwest/Documents/Courses/EPID_823/presentation/'
-setwd(dir)
-source('C:/Users/erikinwest/Documents/R/funzies.R')
-source('fs_batch_effects.R')
 
 options(max.print = 75)
 
